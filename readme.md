@@ -1,3 +1,11 @@
+# Conky-Minimalistic Config
+
+![](/home/philip/Documents/conky-minimalistic/sample.png)
+
+![samplecropped](/home/philip/Documents/conky-minimalistic/samplecropped.png)
+
+
+
 # Install
 
 - install conky
