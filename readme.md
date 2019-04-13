@@ -1,8 +1,8 @@
 # Conky-Minimalistic Config
 
-![](/home/philip/Documents/conky-minimalistic/sample.png)
+![sample](sample.png)
 
-![samplecropped](/home/philip/Documents/conky-minimalistic/samplecropped.png)
+![samplecropped](samplecropped.png)
 
 
 
