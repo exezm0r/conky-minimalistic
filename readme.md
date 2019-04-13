@@ -1,10 +1,6 @@
 # Conky-Minimalistic Config
 
-![sample](sample.png)
-
-![samplecropped](samplecropped.png)
-
-
+![sample](sample.png)![samplecropped](samplecropped.png)
 
 # Install
 
